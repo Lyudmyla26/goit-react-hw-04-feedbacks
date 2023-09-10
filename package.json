@@ -2,7 +2,7 @@
   "name": "react-homework-template",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Lyudmyla26.github.io/goit-react-hw-02-feedback/",
+  "homepage": "https://Lyudmyla26.github.io/goit-react-hw-04-feedbacks/",
   "dependencies": {
     "@paralleldrive/cuid2": "^2.2.2",
     "@testing-library/jest-dom": "^5.16.3",
