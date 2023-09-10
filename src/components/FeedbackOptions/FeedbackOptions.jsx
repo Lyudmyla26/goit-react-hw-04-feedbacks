@@ -6,7 +6,7 @@ export const FeedbackOptions = ({ options, onLeaveFeedback }) => {
     <Div>
       {options.map(item => (
         <Item key={item}>
-          <Button type="button" onClick={() => onLeaveFeedback(item)}>
+          <Button type="button" onClick={onLeaveFeedback(item)}>
             {item.toUpperCase()}
           </Button>
         </Item>
